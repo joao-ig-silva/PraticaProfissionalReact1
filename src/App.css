@@ -1,0 +1,16 @@
+body {
+    text-align: center;
+    background-color: rgb(138, 81, 81);
+    background: linear-gradient(rgba(126, 224, 13, 0.959), rgb(237, 234, 234)100%);
+}
+
+h1 {
+    color: rgb(16, 0, 235);
+}
+
+.forms {
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+}
